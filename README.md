@@ -6,6 +6,6 @@ This is a project I am starting to get practice working on and updating a websit
 
 # Technology
 
-This project uses HTML.
+This project uses HTML, CSS.
 
 
